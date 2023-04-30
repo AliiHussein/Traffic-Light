@@ -6,7 +6,7 @@ Simple embedded project that simulatesthe traffic light behavior
 * LCD
 * LEDs
 
-# Prepherial used
+# Library used
 * LCD.h
 * Timer0.h
 
