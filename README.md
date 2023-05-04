@@ -1,5 +1,5 @@
 # Traffic-Light
-Simple embedded project that simulatesthe traffic light behavior
+Simple embedded project that simulates the traffic light behavior
 
 ## System Componenets
 * Atmega32
